@@ -81,3 +81,7 @@ button {
 button:hover {
   background-color: rgb(94, 185, 197);
 }
+
+.black {
+  color: black;
+}
